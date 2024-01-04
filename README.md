@@ -1,7 +1,7 @@
 # Project: Side bar
 
 ## About the project 🌟
-### [Live Demo](arkhanis.github.io/HTML_side_bar/)
+### [Live Demo](https://arkhanis.github.io/HTML_side_bar/)
 ### `Description:` 
 This project is a website for a multipurpose agency.
 ### `Features:`
