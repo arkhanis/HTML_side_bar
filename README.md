@@ -3,7 +3,7 @@
 ## About the project 🌟
 ### [Live Demo](https://arkhanis.github.io/HTML_side_bar/)
 ### `Description:` 
-This project is a website for a multipurpose agency.
+Side bar in dark theme.
 ### `Features:`
 - Responsive for all devices
 - Build using HTML, CSS, and JavaScript.
